@@ -47,7 +47,7 @@ cd Dotfiles
 > [!CAUTION]
 > Backup your existing config files, this command will **OVERWRITE** the existing config folders.
 ```bash
-cp -rf ~/Dotfiles/.config/* ~/.config/
+cp -rf ~/Dotfiles/config/* ~/.config/
 ```
 
 
